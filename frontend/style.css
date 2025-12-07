@@ -1,0 +1,36 @@
+#tema{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+#marca{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navbar{
+    text-align: center;
+}
+
+.conteiner1{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.explorar{
+    
+}
+
+.conteiner2{
+    background-color: #e1dddd;
+}
+
+#motivacao{
+    text-align: center;
+}
+
+footer{
+    color: white;
+    background-color: black;
+}

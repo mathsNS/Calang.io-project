@@ -1,0 +1,30 @@
+{
+  "name": "calang.io-project",
+  "version": "1.0.0",
+  "description": "Criação de um site para marca fictícia de perfumes Fragranza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyBr666/Calang.io-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GyBr666/Calang.io-Project/issues"
+  },
+  "homepage": "https://github.com/GyBr666/Calang.io-Project#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "body-parser": "^2.2.1",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
